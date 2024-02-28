@@ -231,6 +231,11 @@
   align-items: center;
 }
 
+.vh_normal{
+  width: 65rem;
+  height: 65rem;
+}
+
 .margin-bottom-10px {
   margin-bottom: 1rem;
 }
@@ -312,8 +317,9 @@ body {
 }
 .img-body{
   display: block;
+  filter: brightness(40%);
   position: fixed;
-  opacity: .7;
+  opacity: 1;
   left: 0;
   top: 0;
   width: 100vw;
