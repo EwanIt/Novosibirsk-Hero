@@ -1,2 +1,1 @@
-# MODEL-VALENTINA-STEPANOVA
-Valentina Project
+# nsk
