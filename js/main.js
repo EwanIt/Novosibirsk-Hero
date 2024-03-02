@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 setTimeout(function() {
   $('#info-block').fadeOut('fast');
 }, 5000); // <-- time in milliseconds
 
+=======
+>>>>>>> 3e7683d4c1adb0c3f006af6c4caae7d2f24c03b2
 //код для бургер-меню
 let menuBtn = document.querySelector('.menu-btn')
 let menu = document.querySelector('.menu')

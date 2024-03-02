@@ -161,6 +161,7 @@
   display: flex;
 }
 
+<<<<<<< HEAD
 .info-block{
   width: 100vw;
   height: 5rem;
@@ -174,13 +175,18 @@
 
 }
 
+=======
+>>>>>>> 3e7683d4c1adb0c3f006af6c4caae7d2f24c03b2
 @media (max-width: 420px) {
   .header__nav {
     flex-direction: column;
     text-align: center;
     justify-content: center;
   }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3e7683d4c1adb0c3f006af6c4caae7d2f24c03b2
 }
 
 .header__nav-link {
@@ -254,6 +260,7 @@
   margin-bottom: 1rem;
 }
 
+<<<<<<< HEAD
 .img-ad{
   height: auto;
   width: 100%;
@@ -261,6 +268,8 @@
   max-width: 720px;
 }
 
+=======
+>>>>>>> 3e7683d4c1adb0c3f006af6c4caae7d2f24c03b2
 .margin-bottom-20px {
   margin-bottom: 2rem;
 }
@@ -477,6 +486,7 @@ body {
   }
 }
 
+<<<<<<< HEAD
 @media (max-width: 172px) {
   html,
   body {
@@ -498,6 +508,8 @@ body {
   }
 }
 
+=======
+>>>>>>> 3e7683d4c1adb0c3f006af6c4caae7d2f24c03b2
 .html.static {
   overflow-y: scroll;
 }
